@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" 
+           fetch="https://github.com" />
+  <remote  name="gist" 
+           fetch="https://gist.github.com" />
+  <remote  name="googlesource" 
+           fetch="https://gerrit.googlesource.com" />
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-j="4" />
+  <project remote="googlesource" name="git-repo" path="bin/git-repo" />
+  <project remote="github" name="joeyh/myrepos" path="bin/mr" />
+  <project remote="github" name="RichiH/vcsh" path="bin/vcsh" />
+  <project remote="github" name="portante/pycscope" path="bin/pycscope" />
+  <project remote="github" name="bluss/git-remote-gcrypt" path="bin/git-remote-gcrypt" />
+  <project remote="github" name="aanand/git-up" path="bin/git-up" />
+  <project remote="gist" name="1978266" path="bin/git-cache-meta" />
+  <project remote="gist" name="5758221" path="bin/git-prune" />
+</manifest>
