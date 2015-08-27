@@ -6,9 +6,11 @@
            fetch="https://gist.github.com" />
   <remote  name="googlesource" 
            fetch="https://gerrit.googlesource.com" />
+
   <default revision="refs/heads/master"
            remote="github"
            sync-j="4" />
+
   <project remote="googlesource" name="git-repo" path="bin/git-repo" />
   <project remote="github" name="joeyh/myrepos" path="bin/mr" />
   <project remote="github" name="RichiH/vcsh" path="bin/vcsh" />
@@ -18,3 +20,4 @@
   <project remote="gist" name="1978266" path="bin/git-cache-meta" />
   <project remote="gist" name="5758221" path="bin/git-prune" />
 </manifest>
+
