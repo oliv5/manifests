@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" 
+           fetch="https://github.com" />
+  <remote  name="apbteam" 
+           fetch="git://apbteam.org" />
+  
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <project remote="github" name="oliv5/cmUpdater"       path="cmUpdater" />
+  <project remote="github" name="oliv5/minibufexpl.vim" path="minibufexpl.vim" />
+
+  <project remote="apbteam" name="apbteam"              path="apbteam/apbteam" />
+  <project remote="github" name="oliv5/apbteam"         path="apbteam/oliv5" />
+  <project remote="github" name="libopencm3/libopencm3" path="apbteam/libopencm3" />
+
+  <project remote="github" name="AGWA/git-crypt"                  path="externals/git-crypt" />
+  <project remote="github" name="Schnouki/git-annex-remote-hubic" path="externals/git-annex-remote-hubic" />
+
+  <project remote="github" name="Grive/grive"         path="externals/grive" />
+  <project remote="github" name="armooo/cloudprint"   path="externals/cloudprint" />
+  <project remote="github" name="redbo/cloudfuse"     path="externals/cloudfuse" />
+  <project remote="github" name="TurboGit/hubicfuse"  path="externals/hubicfuse" />
+  <project remote="github" name="bup/bup"             path="externals/bup" />
+
+  <project remote="github" name="robertdavidgraham/masscan"         path="externals/masscan" />
+  <project remote="github" name="KeenSoftwareHouse/SpaceEngineers"  path="externals/SpaceEngineers" />
+  <project remote="github" name="pokerth/pokerth"                   path="externals/pokerth" />
+  <project remote="github" name="sahib/rmlint"                      path="externals/rmlint" />
+  <project remote="github" name="FiloSottile/Heartbleed"            path="externals/Heartbleed" />
+  <project remote="github" name="Bumblebee-Project/bumblebee-ui"    path="externals/bumblebee-ui" />
+  <!--project remote="github" name="heavyhdx/cmUpdater"                path="externals/cmUpdater" /-->
+
+</manifest>
+
