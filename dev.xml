@@ -17,14 +17,14 @@
   <project remote="github" name="oliv5/apbteam"         path="apbteam/oliv5" />
   <project remote="github" name="libopencm3/libopencm3" path="apbteam/libopencm3" />
 
-  <project remote="github" name="AGWA/git-crypt"                  path="externals/git-crypt" />
-  <project remote="github" name="Schnouki/git-annex-remote-hubic" path="externals/git-annex-remote-hubic" />
+  <project remote="github" name="AGWA/git-crypt"                    path="externals/git-crypt" />
+  <project remote="github" name="Schnouki/git-annex-remote-hubic"   path="externals/git-annex-remote-hubic" />
 
-  <project remote="github" name="Grive/grive"         path="externals/grive" />
-  <project remote="github" name="armooo/cloudprint"   path="externals/cloudprint" />
-  <project remote="github" name="redbo/cloudfuse"     path="externals/cloudfuse" />
-  <project remote="github" name="TurboGit/hubicfuse"  path="externals/hubicfuse" />
-  <project remote="github" name="bup/bup"             path="externals/bup" />
+  <project remote="github" name="Grive/grive"           path="externals/grive" />
+  <project remote="github" name="armooo/cloudprint"     path="externals/cloudprint" />
+  <project remote="github" name="redbo/cloudfuse"       path="externals/cloudfuse" />
+  <project remote="github" name="TurboGit/hubicfuse"    path="externals/hubicfuse" />
+  <project remote="github" name="bup/bup"               path="externals/bup" />
 
   <project remote="github" name="robertdavidgraham/masscan"         path="externals/masscan" />
   <project remote="github" name="KeenSoftwareHouse/SpaceEngineers"  path="externals/SpaceEngineers" />
