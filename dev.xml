@@ -33,6 +33,9 @@
   <project remote="github" name="FiloSottile/Heartbleed"            path="externals/Heartbleed" />
   <project remote="github" name="Bumblebee-Project/bumblebee-ui"    path="externals/bumblebee-ui" />
   <!--project remote="github" name="heavyhdx/cmUpdater"                path="externals/cmUpdater" /-->
+  <project remote="github" name="jswanner/DontFuckWithPaste"        path="externals/DontFuckWithPaste" /-->
+  <project remote="github" name="sahib/rmlint"                      path="externals/rmlint" /-->
+  <project remote="github" name="robertdavidgraham/masscan"         path="externals/masscan" /-->
 
 </manifest>
 
