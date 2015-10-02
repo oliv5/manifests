@@ -17,6 +17,7 @@
   <project remote="github" name="portante/pycscope"/>
   <project remote="github" name="bluss/git-remote-gcrypt"/>
   <project remote="github" name="aanand/git-up" />
+  <project remote="github" name="TobiasTheViking/googledriveannex" />
   <project remote="github" name="yyuu/pyenv" />
   <project remote="gist" name="1978266" path="git-cache-meta" />
   <project remote="gist" name="5758221" path="git-prune" />
