@@ -25,6 +25,7 @@
   <project remote="github" name="redbo/cloudfuse"       path="externals/cloudfuse" />
   <project remote="github" name="TurboGit/hubicfuse"    path="externals/hubicfuse" />
   <project remote="github" name="bup/bup"               path="externals/bup" />
+  <project remote="github" name="nathanweeks/ipcmd"     path="externals/ipcmd" />
 
   <project remote="github" name="robertdavidgraham/masscan"         path="externals/masscan" />
   <project remote="github" name="KeenSoftwareHouse/SpaceEngineers"  path="externals/SpaceEngineers" />
