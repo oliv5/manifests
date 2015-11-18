@@ -45,7 +45,6 @@
   <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
   <project remote="github"       name="KeenSoftwareHouse/SpaceEngineers"  path="dev/externals/SpaceEngineers" />
   <project remote="github"       name="pokerth/pokerth"                   path="dev/externals/pokerth" />
-  <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
   <project remote="github"       name="FiloSottile/Heartbleed"            path="dev/externals/Heartbleed" />
   <project remote="github"       name="Bumblebee-Project/bumblebee-ui"    path="dev/externals/bumblebee-ui" />
   <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" />
