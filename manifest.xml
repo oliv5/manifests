@@ -74,7 +74,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="github"       name="kkga/spacegray.git"                            path="dev/externals/sublime/spacegray" />
 
   <!-- Own dev repos -->
-  <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" />
+  <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" /-->
   <project remote="github"       name="oliv5/cmUpdater"                   path="dev/cmUpdater" />
   <project remote="github"       name="oliv5/minibufexpl.vim"             path="dev/minibufexpl.vim" />
   <project remote="apbteam"      name="apbteam"                           path="dev/apbteam/apbteam" />
