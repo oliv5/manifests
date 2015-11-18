@@ -42,39 +42,39 @@
 
   <!-- External misc tools repos -->
   <project remote="github"       name="nathanweeks/ipcmd"                 path="dev/externals/ipcmd" />
-  <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" /-->
+  <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
   <project remote="github"       name="KeenSoftwareHouse/SpaceEngineers"  path="dev/externals/SpaceEngineers" />
   <project remote="github"       name="pokerth/pokerth"                   path="dev/externals/pokerth" />
   <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
   <project remote="github"       name="FiloSottile/Heartbleed"            path="dev/externals/Heartbleed" />
   <project remote="github"       name="Bumblebee-Project/bumblebee-ui"    path="dev/externals/bumblebee-ui" />
-  <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" /-->
-  <project remote="github"       name="robertdavidgraham/masscan"         path="dev/externals/masscan" /-->
+  <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" />
+  <project remote="github"       name="robertdavidgraham/masscan"         path="dev/externals/masscan" />
 
   <!-- Sublime text repos -->
   <!-- Package manager
 https://packagecontrol.io/installation
 import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
 -->
-  <project remote="github"       name="titoBouzout/SideBarEnhancements/tree/st3"      path="dev/externals/sublime/SideBarEnhancements" /-->
-  <project remote="github"       name="skuroda/PackageResourceViewer"                 path="dev/externals/sublime/PackageResourceViewer" /-->
-  <project remote="github"       name="kemayo/sublime-text-git"                       path="dev/externals/sublime/sublime-text-git" /-->
-  <project remote="github"       name="jisaacks/GitGutter"                            path="dev/externals/sublime/GitGutter" /-->
-  <project remote="github"       name="wbond/sublime_terminal"                        path="dev/externals/sublime/sublime_terminal" /-->
-  <project remote="github"       name="wbond/sublime_alignment"                       path="dev/externals/sublime/sublime_alignment" /-->
-  <project remote="github"       name="jonlabelle/Trimmer"                            path="dev/externals/sublime/Trimmer" /-->
-  <project remote="github"       name="SublimeText-Markdown/MarkdownEditing"          path="dev/externals/sublime/MarkdownEditing" /-->
-  <project remote="github"       name="revolunet/sublimetext-markdown-preview"        path="dev/externals/sublime/sublimetext-markdown-preview" /-->
-  <project remote="github"       name="colinta/SublimeFileDiffs"                      path="dev/externals/sublime/SublimeFileDiffs" /-->
-  <project remote="github"       name="spadgos/sublime-jsdocs"                        path="dev/externals/sublime/sublime-jsdocs" /-->
-  <project remote="github"       name="alienhard/SublimeAllAutocomplete"              path="dev/externals/sublime/SublimeAllAutocomplete" /-->
-  <project remote="github"       name="wuub/SublimeREPL"                              path="dev/externals/sublime/SublimeREPL" /-->
-  <project remote="github"       name="EleazarCrusader/nexus-theme.git"               path="dev/externals/sublime/nexus-theme" /-->
-  <project remote="github"       name="thinkpixellab/flatland.git"                    path="dev/externals/sublime/flatland" /-->
-  <project remote="github"       name="kkga/spacegray.git"                            path="dev/externals/sublime/spacegray" /-->
+  <project remote="github"       name="titoBouzout/SideBarEnhancements/tree/st3"      path="dev/externals/sublime/SideBarEnhancements" />
+  <project remote="github"       name="skuroda/PackageResourceViewer"                 path="dev/externals/sublime/PackageResourceViewer" />
+  <project remote="github"       name="kemayo/sublime-text-git"                       path="dev/externals/sublime/sublime-text-git" />
+  <project remote="github"       name="jisaacks/GitGutter"                            path="dev/externals/sublime/GitGutter" />
+  <project remote="github"       name="wbond/sublime_terminal"                        path="dev/externals/sublime/sublime_terminal" />
+  <project remote="github"       name="wbond/sublime_alignment"                       path="dev/externals/sublime/sublime_alignment" />
+  <project remote="github"       name="jonlabelle/Trimmer"                            path="dev/externals/sublime/Trimmer" />
+  <project remote="github"       name="SublimeText-Markdown/MarkdownEditing"          path="dev/externals/sublime/MarkdownEditing" />
+  <project remote="github"       name="revolunet/sublimetext-markdown-preview"        path="dev/externals/sublime/sublimetext-markdown-preview" />
+  <project remote="github"       name="colinta/SublimeFileDiffs"                      path="dev/externals/sublime/SublimeFileDiffs" />
+  <project remote="github"       name="spadgos/sublime-jsdocs"                        path="dev/externals/sublime/sublime-jsdocs" />
+  <project remote="github"       name="alienhard/SublimeAllAutocomplete"              path="dev/externals/sublime/SublimeAllAutocomplete" />
+  <project remote="github"       name="wuub/SublimeREPL"                              path="dev/externals/sublime/SublimeREPL" />
+  <project remote="github"       name="EleazarCrusader/nexus-theme.git"               path="dev/externals/sublime/nexus-theme" />
+  <project remote="github"       name="thinkpixellab/flatland.git"                    path="dev/externals/sublime/flatland" />
+  <project remote="github"       name="kkga/spacegray.git"                            path="dev/externals/sublime/spacegray" />
 
   <!-- Own dev repos -->
-  <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" /-->
+  <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" />
   <project remote="github"       name="oliv5/cmUpdater"                   path="dev/cmUpdater" />
   <project remote="github"       name="oliv5/minibufexpl.vim"             path="dev/minibufexpl.vim" />
   <project remote="apbteam"      name="apbteam"                           path="dev/apbteam/apbteam" />
