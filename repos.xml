@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" 
+           fetch="https://github.com" />
+  <remote  name="gist" 
+           fetch="https://gist.github.com" />
+  <remote  name="googlesource" 
+           fetch="https://gerrit.googlesource.com" />
+  <remote  name="apbteam" 
+           fetch="git://apbteam.org" />
+
+  <default revision="refs/heads/master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <!-- External binaries repos -->
+  <project remote="googlesource" name="git-repo"                          path="bin/externals/repo" />
+  <project remote="github"       name="joeyh/myrepos"                     path="bin/externals/mr" />
+  <project remote="github"       name="RichiH/vcsh"                       path="bin/externals/vcsh" />
+  <project remote="github"       name="rupa/z"                            path="bin/externals/z" />
+
+  <!-- External git tools repos -->
+  <project remote="github"       name="aanand/git-up"                     path="dev/externals/git-up" />
+  <project remote="github"       name="bluss/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
+  <project remote="github"       name="TobiasTheViking/googledriveannex"  path="dev/externals/googledriveannex" />
+  <project remote="gist"         name="1978266"                           path="dev/externals/git-cache-meta" />
+  <project remote="gist"         name="5758221"                           path="dev/externals/git-prune" />
+  <project remote="github"       name="AGWA/git-crypt"                    path="dev/externals/git-crypt" />
+  <project remote="github"       name="Schnouki/git-annex-remote-hubic"   path="dev/externals/git-annex-remote-hubic" />
+  <project remote="github"       name="bup/bup"                           path="dev/externals/bup" />
+
+  <!-- External python tools repos -->
+  <project remote="github"       name="portante/pycscope"                 path="dev/externals/pyscope" />
+  <project remote="github"       name="yyuu/pyenv"                        path="dev/externals/pyenv" />
+
+  <!-- External cloud tools repos -->
+  <project remote="github"       name="Grive/grive"                       path="dev/externals/grive" />
+  <project remote="github"       name="armooo/cloudprint"                 path="dev/externals/cloudprint" />
+  <project remote="github"       name="redbo/cloudfuse"                   path="dev/externals/cloudfuse" />
+  <project remote="github"       name="TurboGit/hubicfuse"                path="dev/externals/hubicfuse" />
+
+  <!-- External misc tools repos -->
+  <project remote="github"       name="nathanweeks/ipcmd"                 path="dev/externals/ipcmd" />
+  <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" /-->
+  <project remote="github"       name="KeenSoftwareHouse/SpaceEngineers"  path="dev/externals/SpaceEngineers" />
+  <project remote="github"       name="pokerth/pokerth"                   path="dev/externals/pokerth" />
+  <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
+  <project remote="github"       name="FiloSottile/Heartbleed"            path="dev/externals/Heartbleed" />
+  <project remote="github"       name="Bumblebee-Project/bumblebee-ui"    path="dev/externals/bumblebee-ui" />
+  <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" /-->
+  <project remote="github"       name="robertdavidgraham/masscan"         path="dev/externals/masscan" /-->
+
+  <!-- Own dev repos -->
+  <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" /-->
+  <project remote="github"       name="oliv5/cmUpdater"                   path="dev/cmUpdater" />
+  <project remote="github"       name="oliv5/minibufexpl.vim"             path="dev/minibufexpl.vim" />
+  <project remote="apbteam"      name="apbteam"                           path="dev/apbteam/apbteam" />
+  <project remote="github"       name="oliv5/apbteam"                     path="dev/apbteam/oliv5" />
+  <project remote="github"       name="libopencm3/libopencm3"             path="dev/apbteam/libopencm3" />
+
+</manifest>
+
