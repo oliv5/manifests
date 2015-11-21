@@ -68,9 +68,23 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="github"       name="spadgos/sublime-jsdocs"                    path="dev/externals/sublime/sublime-jsdocs" />
   <project remote="github"       name="alienhard/SublimeAllAutocomplete"          path="dev/externals/sublime/SublimeAllAutocomplete" />
   <project remote="github"       name="wuub/SublimeREPL"                          path="dev/externals/sublime/SublimeREPL" />
-  <project remote="github"       name="EleazarCrusader/nexus-theme.git"           path="dev/externals/sublime/nexus-theme" />
-  <project remote="github"       name="thinkpixellab/flatland.git"                path="dev/externals/sublime/flatland" />
-  <project remote="github"       name="kkga/spacegray.git"                        path="dev/externals/sublime/spacegray" />
+  <project remote="github"       name="kkga/spacegray.git"                        path="dev/externals/sublime/spacegray-theme" />
+  <project remote="github"       name="Orlmente/Theme-Asphalt"                    path="dev/externals/sublime/Asphalt-theme" />
+  <project remote="github"       name="ddeville/aristocat-theme"                  path="dev/externals/sublime/aristocat-theme" />
+  <project remote="github"       name="idleberg/Harper.tmTheme"                   path="dev/externals/sublime/Harper-theme" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter3"              path="dev/externals/sublime/SublimeLinter3" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter-cppcheck"      path="dev/externals/sublime/SublimeLinter-cppcheck" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter-cpplint"       path="dev/externals/sublime/SublimeLinter-cpplint" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter-chktex"        path="dev/externals/sublime/SublimeLinter-chktex" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter-chktex"        path="dev/externals/sublime/SublimeLinter-chktex" />
+  <project remote="github"       name="SublimeLinter/SublimeLinter-phplint"       path="dev/externals/sublime/SublimeLinter-phplint" />
+  <project remote="github"       name="SublimeText/CTags"                         path="dev/externals/sublime/CTags" />
+  <project remote="github"       name="abusalimov/SublimeMoveBySymbols"           path="dev/externals/sublime/SublimeMoveBySymbols" />
+  <project remote="github"       name="FichteFoll/FileHistory"                    path="dev/externals/sublime/FileHistory" />
+  <project remote="github"       name="Rapptz/cpp-sublime-snippet"                path="dev/externals/sublime/cpp-sublime-snippet" />
+  <project remote="github"       name="DamnWidget/anaconda"                       path="dev/externals/sublime/anaconda" />
+  <project remote="github"       name="FichteFoll/FileHistory"                    path="dev/externals/sublime/FileHistory" />
+  <project remote="github"       name="kemayo/sublime-text-2-goto-documentation"  path="dev/externals/sublime/sublime-text-2-goto-documentation" />
 
   <!-- Own dev repos -->
   <!--project remote="github" name="heavyhdx/cmUpdater"              path="dev/externals/cmUpdater" /-->
