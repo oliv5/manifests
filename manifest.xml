@@ -29,6 +29,7 @@
   <project remote="github"       name="AGWA/git-crypt"                    path="dev/externals/git-crypt" />
   <project remote="github"       name="Schnouki/git-annex-remote-hubic"   path="dev/externals/git-annex-remote-hubic" />
   <project remote="github"       name="bup/bup"                           path="dev/externals/bup" />
+  <project remote="github"       name="joeyh/etckeeper"                   path="dev/externals/etckeeper" />
 
   <!-- External python tools repos -->
   <project remote="github"       name="portante/pycscope"                 path="dev/externals/pyscope" />
