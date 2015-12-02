@@ -42,6 +42,7 @@
   <project remote="github"       name="TurboGit/hubicfuse"                path="dev/externals/hubicfuse" />
 
   <!-- External misc tools repos -->
+  <project remote="github"       name="bengardner/uncrustify"             path="dev/externals/uncrustify" />
   <project remote="github"       name="nathanweeks/ipcmd"                 path="dev/externals/ipcmd" />
   <project remote="github"       name="sahib/rmlint"                      path="dev/externals/rmlint" />
   <project remote="github"       name="KeenSoftwareHouse/SpaceEngineers"  path="dev/externals/SpaceEngineers" />
