@@ -100,5 +100,10 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="github"       name="oliv5/apbteam"                     path="dev/apbteam/oliv5" />
   <project remote="github"       name="libopencm3/libopencm3"             path="dev/apbteam/libopencm3" />
 
+  <!-- Open Whisper Systems repos -->
+  <project remote="github"       name="WhisperSystems/Signal-iOS"         path="dev/ows/Signal-iOS" />
+  <project remote="github"       name="WhisperSystems/Signal-Desktop"     path="dev/ows/Signal-Desktop" />
+  <project remote="github"       name="WhisperSystems/Signal-Android"     path="dev/ows/Signal-Android" />
+
 </manifest>
 
