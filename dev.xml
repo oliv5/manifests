@@ -14,12 +14,6 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- External binaries repos -->
-  <project remote="googlesource" name="git-repo"                          path="bin/externals/repo" />
-  <project remote="github"       name="joeyh/myrepos"                     path="bin/externals/mr" />
-  <project remote="github"       name="RichiH/vcsh"                       path="bin/externals/vcsh" />
-  <project remote="github"       name="rupa/z"                            path="bin/externals/z" />
-
   <!-- External git tools repos -->
   <project remote="github"       name="aanand/git-up"                     path="dev/externals/git-up" />
   <project remote="github"       name="bluss/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
