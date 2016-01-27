@@ -81,11 +81,9 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="github"       name="SublimeLinter/SublimeLinter-cppcheck"      path="dev/externals/sublime/SublimeLinter-cppcheck" />
   <project remote="github"       name="SublimeLinter/SublimeLinter-cpplint"       path="dev/externals/sublime/SublimeLinter-cpplint" />
   <project remote="github"       name="SublimeLinter/SublimeLinter-chktex"        path="dev/externals/sublime/SublimeLinter-chktex" />
-  <project remote="github"       name="SublimeLinter/SublimeLinter-chktex"        path="dev/externals/sublime/SublimeLinter-chktex" />
   <project remote="github"       name="SublimeLinter/SublimeLinter-phplint"       path="dev/externals/sublime/SublimeLinter-phplint" />
   <project remote="github"       name="SublimeText/CTags"                         path="dev/externals/sublime/CTags" />
   <project remote="github"       name="abusalimov/SublimeMoveBySymbols"           path="dev/externals/sublime/SublimeMoveBySymbols" />
-  <project remote="github"       name="FichteFoll/FileHistory"                    path="dev/externals/sublime/FileHistory" />
   <project remote="github"       name="Rapptz/cpp-sublime-snippet"                path="dev/externals/sublime/cpp-sublime-snippet" />
   <project remote="github"       name="DamnWidget/anaconda"                       path="dev/externals/sublime/anaconda" />
   <project remote="github"       name="FichteFoll/FileHistory"                    path="dev/externals/sublime/FileHistory" />
