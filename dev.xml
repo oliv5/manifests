@@ -23,7 +23,10 @@
   <project remote="github"       name="AGWA/git-crypt"                    path="dev/externals/git-crypt" />
   <project remote="github"       name="Schnouki/git-annex-remote-hubic"   path="dev/externals/git-annex-remote-hubic" />
   <project remote="github"       name="bup/bup"                           path="dev/externals/bup" />
+  <project remote="github"       name="joeyh/git-annex"                   path="dev/externals/git-annex" />
   <project remote="github"       name="joeyh/etckeeper"                   path="dev/externals/etckeeper" />
+  <project remote="github"       name="joeyh/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
+  <project remote="github"       name="joeyh/myrepos"                     path="dev/externals/mr" />
 
   <!-- External python tools repos -->
   <project remote="github"       name="portante/pycscope"                 path="dev/externals/pyscope" />
@@ -34,6 +37,7 @@
   <project remote="github"       name="armooo/cloudprint"                 path="dev/externals/cloudprint" />
   <project remote="github"       name="redbo/cloudfuse"                   path="dev/externals/cloudfuse" />
   <project remote="github"       name="TurboGit/hubicfuse"                path="dev/externals/hubicfuse" />
+  <project remote="github"       name="google/cups-connector"             path="dev/externals/cups-connector" />
 
   <!-- External misc tools repos -->
   <project remote="github"       name="bengardner/uncrustify"             path="dev/externals/uncrustify" />
@@ -48,6 +52,9 @@
 
   <!-- External env tools repos -->
   <project remote="github"       name="fsquillace/junest"                 path="dev/externals/junest" />
+
+  <!-- External vim repos -->
+  <project remote="github"       name="spf13/spf13-vim"                   path="dev/externals/spf13" />
 
   <!-- Sublime text repos -->
   <!-- Package manager
