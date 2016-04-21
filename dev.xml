@@ -105,10 +105,13 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="github"       name="WhisperSystems/Signal-Android"     path="dev/ows/Signal-Android" />
 
   <!-- Domotic repos -->
-  <project remote="github"       name="ltoinel/DomoGeeek"         path="dev/domotic/DomoGeeek" />
-  <project remote="github"       name="node-red/node-red"         path="dev/domotic/node-red" />
+  <project remote="github"       name="ltoinel/DomoGeeek"                 path="dev/domotic/DomoGeeek" />
+  <project remote="github"       name="node-red/node-red"                 path="dev/domotic/node-red" />
 
   <!-- vscode repos -->
-  <project remote="github"       name="Microsoft/vscode"          path="dev/vscode" />
+  <project remote="github"       name="Microsoft/vscode"                  path="dev/vscode" />
+
+  <!-- Tor repos -->
+  <project remote="github"       name="s-rah/onionscan"                   path="dev/externals/onionscan" />
 </manifest>
 
