@@ -49,6 +49,7 @@
   <project remote="github"       name="Bumblebee-Project/bumblebee-ui"    path="dev/externals/bumblebee-ui" />
   <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" />
   <project remote="github"       name="robertdavidgraham/masscan"         path="dev/externals/masscan" />
+  <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
 
   <!-- External env tools repos -->
   <project remote="github"       name="fsquillace/junest"                 path="dev/externals/junest" />
