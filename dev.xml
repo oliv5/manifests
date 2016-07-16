@@ -52,6 +52,7 @@
   <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
   <project remote="github"       name="fsquillace/junest"                 path="dev/externals/junest" />
   <project remote="github"       name="sivel/speedtest-cli"               path="dev/externals/speedtest-cli" />
+  <project remote="github"       name="dropbox/lepton"                    path="dev/externals/lepton" />
 
   <!-- External vim repos -->
   <project remote="github"       name="spf13/spf13-vim"                   path="dev/externals/spf13" />
