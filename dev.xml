@@ -49,11 +49,15 @@
   <project remote="github"       name="Bumblebee-Project/bumblebee-ui"    path="dev/externals/bumblebee-ui" />
   <project remote="github"       name="jswanner/DontFuckWithPaste"        path="dev/externals/DontFuckWithPaste" />
   <project remote="github"       name="robertdavidgraham/masscan"         path="dev/externals/masscan" />
-  <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
   <project remote="github"       name="fsquillace/junest"                 path="dev/externals/junest" />
   <project remote="github"       name="sivel/speedtest-cli"               path="dev/externals/speedtest-cli" />
   <project remote="github"       name="dropbox/lepton"                    path="dev/externals/lepton" />
-  <project remote="github"       name="jgamblin/Mirai-Source-Code"        path="dev/externals/Mirai" />
+
+  <!-- Exploits -->
+  <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
+  <project remote="github"       name="jgamblin/Mirai-Source-Code"        path="dev/externals/mirai" />
+  <project remote="github"       name="dirtycow/dirtycow.github.io.wiki"  path="dev/externals/dirtycow" />
+
 
   <!-- External vim repos -->
   <project remote="github"       name="spf13/spf13-vim"                   path="dev/externals/spf13" />
