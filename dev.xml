@@ -58,7 +58,7 @@
   <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
   <project remote="github"       name="jgamblin/Mirai-Source-Code"        path="dev/externals/mirai" />
   <project remote="github"       name="dirtycow/dirtycow.github.io.wiki"  path="dev/externals/dirtycow" />
-
+  <project remote="github"       name="elvanderb/TCP-32764"               path="dev/externals/TCP-32764" />
 
   <!-- External vim repos -->
   <project remote="github"       name="spf13/spf13-vim"                   path="dev/externals/spf13" />
