@@ -10,6 +10,8 @@
            fetch="git://apbteam.org" />
   <remote  name="linuxfromscratch"
            fetch="svn://svn.linuxfromscratch.org" />
+  <remote  name="git-annex.branchable"
+           fetch="git://git-annex.branchable.com/" />
 
   <default revision="refs/heads/master"
            remote="github"
@@ -25,10 +27,13 @@
   <project remote="github"       name="AGWA/git-crypt"                    path="dev/externals/git-crypt" />
   <project remote="github"       name="Schnouki/git-annex-remote-hubic"   path="dev/externals/git-annex-remote-hubic" />
   <project remote="github"       name="bup/bup"                           path="dev/externals/bup" />
-  <project remote="github"       name="joeyh/git-annex"                   path="dev/externals/git-annex" />
+  
+  <!-- External joey's repos -->
+  <project remote="github"       name="joeyh/git-annex"                   path="dev/externals/git-annex.joey" />
   <project remote="github"       name="joeyh/etckeeper"                   path="dev/externals/etckeeper" />
   <project remote="github"       name="joeyh/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
   <project remote="github"       name="joeyh/myrepos"                     path="dev/externals/mr" />
+  <project remote="git-annex.branchable" name=""                          path="dev/externals/git-annex" />
 
   <!-- External python tools repos -->
   <project remote="github"       name="portante/pycscope"                 path="dev/externals/pyscope" />
