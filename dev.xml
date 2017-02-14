@@ -134,5 +134,9 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <!-- Beyond Linux From Scratch -->
   <project remote="linuxfromscratch"  name="BLFS/trunk/BOOK"              path="dev/doc/BLFS" />
 
+  <!-- Gimp plugins -->
+  <project remote="github"       name="prokoudine/gimp-deskew-plugin"     path="dev/externals/gimp-deskew-plugin" />
+  <project remote="github"       name="FrancoisMalan/DivideScannedImages" path="dev/externals/DivideScannedImages" />
+
 </manifest>
 
