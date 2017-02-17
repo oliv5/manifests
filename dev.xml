@@ -27,6 +27,7 @@
   <project remote="github"       name="AGWA/git-crypt"                    path="dev/externals/git-crypt" />
   <project remote="github"       name="Schnouki/git-annex-remote-hubic"   path="dev/externals/git-annex-remote-hubic" />
   <project remote="github"       name="bup/bup"                           path="dev/externals/bup" />
+  <project remote="github"       name="ingydotnet/git-subrepo"            path="dev/externals/git-subrepo" />
   
   <!-- External joey's repos -->
   <project remote="github"       name="joeyh/git-annex"                   path="dev/externals/git-annex.joey" />
@@ -41,10 +42,12 @@
 
   <!-- External cloud tools repos -->
   <project remote="github"       name="Grive/grive"                       path="dev/externals/grive" />
+  <project remote="github"       name="prasmussen/gdrive"                 path="dev/externals/gdrive" />
   <project remote="github"       name="armooo/cloudprint"                 path="dev/externals/cloudprint" />
   <project remote="github"       name="redbo/cloudfuse"                   path="dev/externals/cloudfuse" />
   <project remote="github"       name="TurboGit/hubicfuse"                path="dev/externals/hubicfuse" />
   <project remote="github"       name="google/cups-connector"             path="dev/externals/cups-connector" />
+  <project remote="github"       name="simoncadman/CUPS-Cloud-Print"      path="dev/externals/cups-cloud-print-drv" />
 
   <!-- External misc tools repos -->
   <project remote="github"       name="bengardner/uncrustify"             path="dev/externals/uncrustify" />
@@ -112,6 +115,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   <project remote="apbteam"      name="apbteam"                           path="dev/apbteam/apbteam" />
   <project remote="github"       name="oliv5/apbteam"                     path="dev/apbteam/oliv5" />
   <project remote="github"       name="libopencm3/libopencm3"             path="dev/apbteam/libopencm3" />
+  <project remote="github"       name="oliv5/CUPS-Cloud-Print"            path="dev/CUPS-Cloud-Print"        dest-branch="myfixes" />
 
   <!-- Open Whisper Systems repos -->
   <project remote="github"       name="WhisperSystems/Signal-iOS"         path="dev/ows/Signal-iOS" />
