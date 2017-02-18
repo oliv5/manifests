@@ -37,6 +37,8 @@
   <project remote="git-annex.branchable" name=""                          path="dev/externals/git-annex" />
 
   <!-- External python tools repos -->
+  <project remote="github"       name="jilljenn/tryalgo"                  path="dev/externals/python-tryalgo" />
+  <project remote="github"       name="jilljenn/tryalgo.org"              path="dev/externals/python-tryalgo.org" />
   <project remote="github"       name="portante/pycscope"                 path="dev/externals/pyscope" />
   <project remote="github"       name="yyuu/pyenv"                        path="dev/externals/pyenv" />
 
