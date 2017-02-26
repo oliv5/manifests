@@ -20,7 +20,6 @@
 
   <!-- External git tools repos -->
   <project remote="github"       name="aanand/git-up"                     path="dev/externals/git-up" />
-  <project remote="github"       name="bluss/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
   <project remote="github"       name="TobiasTheViking/googledriveannex"  path="dev/externals/googledriveannex" />
   <project remote="gist"         name="1978266"                           path="dev/externals/git-cache-meta" />
   <project remote="gist"         name="5758221"                           path="dev/externals/git-prune" />
@@ -32,9 +31,13 @@
   <!-- External joey's repos -->
   <project remote="github"       name="joeyh/git-annex"                   path="dev/externals/git-annex.joey" />
   <project remote="github"       name="joeyh/etckeeper"                   path="dev/externals/etckeeper" />
-  <project remote="github"       name="joeyh/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt" />
   <project remote="github"       name="joeyh/myrepos"                     path="dev/externals/mr" />
   <project remote="git-annex.branchable" name=""                          path="dev/externals/git-annex" />
+
+  <!-- External git gcrypt repos -->
+  <project remote="github"       name="bluss/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt/bluss" />
+  <project remote="github"       name="joeyh/git-remote-gcrypt"           path="dev/externals/git-remote-gcrypt/joeyh" />
+  <project remote="github"       name="spwhitton/git-remote-gcrypt"       path="dev/externals/git-remote-gcrypt/spwhitton" />
 
   <!-- External python tools repos -->
   <project remote="github"       name="jilljenn/tryalgo"                  path="dev/externals/python-tryalgo" />
