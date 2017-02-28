@@ -68,6 +68,7 @@
   <project remote="github"       name="sivel/speedtest-cli"               path="dev/externals/speedtest-cli" />
   <project remote="github"       name="dropbox/lepton"                    path="dev/externals/lepton" />
   <project remote="github"       name="RMerl/asuswrt-merlin"              path="dev/externals/asuswrt-merlin" />
+  <project remote="github"       name="ok-borg/borg"                      path="dev/externals/borg" />
 
   <!-- Exploits -->
   <project remote="github"       name="graniet/chromebackdoor"            path="dev/externals/chromebackdoor" />
