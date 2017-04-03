@@ -81,6 +81,7 @@
   <project remote="github"       name="dirtycow/dirtycow.github.io.wiki"  path="dev/externals/dirtycow" />
   <project remote="github"       name="elvanderb/TCP-32764"               path="dev/externals/TCP-32764" />
   <project remote="github"       name="Cybellum/DoubleAgent"              path="dev/externals/DoubleAgent" />
+  <project remote="github"       name="laginimaineb/android_fde_bruteforce" path="dev/externals/android_fde_bruteforce" />
 
   <!-- External vim repos -->
   <project remote="github"       name="spf13/spf13-vim"                   path="dev/externals/spf13" />
@@ -157,6 +158,9 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 
   <!-- Let's encrypt -->
   <project remote="github"       name="certbot/certbot"                   path="dev/externals/letsencrypt" />
+
+  <!-- Asus WRT Merlin -->
+  <!--project remote="github"       name="RMerl/asuswrt-merlin"              path="dev/externals/asuswrt-merlin" /-->
 
 </manifest>
 
